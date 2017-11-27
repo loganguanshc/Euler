@@ -4,7 +4,7 @@ public class P1 {
 	/*
 	 * Write a function that add two numbers A and B. You should not use + or any arithmetic operators.
 	 */
-	
+	// changed test
 	public static int aplusb(int a, int b) {
         
 		while(b != 0){
