@@ -1,3 +1,4 @@
+package euler;
 import java.math.*;
 public class Problem25 {
 

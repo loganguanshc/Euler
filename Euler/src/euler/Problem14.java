@@ -1,3 +1,4 @@
+package euler;
 
 public class Problem14 {
 
